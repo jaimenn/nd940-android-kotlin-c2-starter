@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/d0601a8145e9aff4a5ecf98105335818/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/559b93b7f640aba408e6b3f8eb6422db/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/22bad66758cdbe4a32c2385598d043b5/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/fd83416950b4d5a3c25e5e16d54e78df/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/3fa93849d34a10cf0e420e5f41e7e7f8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/3fa93849d34a10cf0e420e5f41e7e7f8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/3fa93849d34a10cf0e420e5f41e7e7f8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.3.1/411f92301435123d502de27b6f3262c062f3bd7a/lifecycle-viewmodel-savedstate-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

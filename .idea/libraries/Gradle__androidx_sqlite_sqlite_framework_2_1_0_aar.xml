@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite-framework:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/c50fbc658433f13fc2642599263c0d7f/transformed/sqlite-framework-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/eb7804af8d8ac3e2a1695c4df7d4c219/transformed/sqlite-framework-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/a82d40e86f88a79a7248cb2ad9e24ae0/transformed/sqlite-framework-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/886886733245ce347764876de3b59faf/transformed/sqlite-framework-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/efac772d9f048c62a321ef2229955ac2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/efac772d9f048c62a321ef2229955ac2/transformed/sqlite-framework-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/efac772d9f048c62a321ef2229955ac2/transformed/sqlite-framework-2.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.sqlite/sqlite-framework/2.1.0/4a19a300155ffb806bfe305703ac2f4d688775af/sqlite-framework-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

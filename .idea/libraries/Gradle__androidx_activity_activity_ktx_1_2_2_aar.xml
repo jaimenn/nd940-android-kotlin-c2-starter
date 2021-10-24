@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-ktx:1.2.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/604e284f279028ecc21afef93d791b14/transformed/jetified-activity-ktx-1.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/b5e3d5215972864656046bc8e3d3bb8b/transformed/jetified-activity-ktx-1.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/6bc07a647a4b8be3aa1adf50c1b1d009/transformed/jetified-activity-ktx-1.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/01dddae13fc7ace5fb5bb1b43631d4ae/transformed/jetified-activity-ktx-1.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/019493b6e1bd772ac13dc867cdf426d0/transformed/jetified-activity-ktx-1.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/019493b6e1bd772ac13dc867cdf426d0/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/019493b6e1bd772ac13dc867cdf426d0/transformed/jetified-activity-ktx-1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.2.2/827664f9421e56e79f9eed7223ba4a5d67d941c2/activity-ktx-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

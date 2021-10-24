@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/2f737aa4a2735fd2a11db3413d815b9f/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/5db0deb4a6b45c67e105caf11d9ab261/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/cae0c9f59f4a9cbd23f0c628f7b17741/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ffd2ed341ce3087ec180565773f18040/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/a10f69bd3db80435994b3c0d5d7b9f25/transformed/core-runtime-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/f7e79c94a8bb90fe43e497edd4efa1f1/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/f7e79c94a8bb90fe43e497edd4efa1f1/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/f7e79c94a8bb90fe43e497edd4efa1f1/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.1.0/f19886651c9946b39f83d8c184fd0e2ce9f43c16/core-runtime-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

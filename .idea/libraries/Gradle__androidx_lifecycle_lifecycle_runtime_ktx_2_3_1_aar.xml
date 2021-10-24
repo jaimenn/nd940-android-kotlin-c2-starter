@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/7171e974c868d9699039b8293ea6770a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/0d2d6800b877a7a0310b6d11fdef793e/transformed/jetified-lifecycle-runtime-ktx-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/939425eb8b7bcabe296a753aae56dce2/transformed/jetified-lifecycle-runtime-ktx-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/50b03117e4ffae339369d75d126e2d28/transformed/jetified-lifecycle-runtime-ktx-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/24f6ec1ec73bdf963b1b119ccbc7376e/transformed/jetified-lifecycle-runtime-ktx-2.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/24f6ec1ec73bdf963b1b119ccbc7376e/transformed/jetified-lifecycle-runtime-ktx-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/24f6ec1ec73bdf963b1b119ccbc7376e/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx/2.3.1/c1479ee40da8e478749acfa4cc0be2f92c312ad8/lifecycle-runtime-ktx-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

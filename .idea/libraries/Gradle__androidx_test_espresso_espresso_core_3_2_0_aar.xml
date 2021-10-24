@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-core:3.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/4e43fb76823e51866057b21389c4e504/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/d097c6ddf44e7fae05d806521b13c7a6/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/cdb3d1411d12061d563bfb2217ddd774/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/d1452eafcdbde5ada81c29c7cf555e2f/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/5ff5d975ef0097b3a777713d67e73560/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ecc9a30e7d72defe173e6e31e6eea583/transformed/espresso-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ecc9a30e7d72defe173e6e31e6eea583/transformed/espresso-core-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ecc9a30e7d72defe173e6e31e6eea583/transformed/espresso-core-3.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0/4dd88178a28883ac149f76e4908942486e756b72/espresso-core-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0/5d1b7f5b3c2877929324f5c846da358995c9af6d/espresso-core-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

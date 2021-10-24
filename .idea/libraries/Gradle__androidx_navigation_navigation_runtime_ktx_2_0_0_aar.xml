@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-runtime-ktx:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/b24460c75bc848fe5d0a69a8c3cd9696/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/b56077686d3592ba73ded63743d4298d/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/2bbc2ec20b627a1af82a7fc6cbe51c83/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/2908e12d72692dcd1f4d3dc654a12907/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/7113d93cf9f6916cc5cccf45a0d78f45/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/31e28a07b83afad03f4a70921af06abf/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/31e28a07b83afad03f4a70921af06abf/transformed/navigation-runtime-ktx-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/31e28a07b83afad03f4a70921af06abf/transformed/navigation-runtime-ktx-2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-ktx/2.0.0/89a650602098396ae8735b89d82062b42d4b9db2/navigation-runtime-ktx-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

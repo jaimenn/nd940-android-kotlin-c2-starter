@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/593d80e5d2017f98c630ba50b7adb82b/transformed/drawerlayout-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/6a446374f7c6c51952012635cce3ebcf/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/96a3482fd567c673de122315f9832515/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/3e7e5d4dc5a36717f1028b0f92e636ef/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/7a17ad6879020c4d518193103ba9ab57/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/26934ed247cda5c21979b0af07a7e3d3/transformed/drawerlayout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/593d80e5d2017f98c630ba50b7adb82b/transformed/drawerlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/593d80e5d2017f98c630ba50b7adb82b/transformed/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/593d80e5d2017f98c630ba50b7adb82b/transformed/drawerlayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0/9ecd4ecb7da215ba4c5c3e00bf8d290dad6f2bc5/drawerlayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

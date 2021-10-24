@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/debd7112e74bd4cd82e7d609fea0d9c0/transformed/jetified-core-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/c5e6f566080b8f5986d00ffcc5340c95/transformed/jetified-core-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/a3b3dc25c2ff75960de780898fbde7c4/transformed/jetified-core-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/9a33542a3aa74c57b5964fe496b4dff8/transformed/jetified-core-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/40f153684d5607da09e387fb25f3e51d/transformed/jetified-core-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/4ce37cf5e84885694f0647cc76a279a6/transformed/jetified-core-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/4ce37cf5e84885694f0647cc76a279a6/transformed/jetified-core-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/4ce37cf5e84885694f0647cc76a279a6/transformed/jetified-core-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test/core/1.2.0/ed921186cfb809317daf41ccf8e6acc5dcea0e06/core-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test/core/1.2.0/4c4174bc50358d65632faeb0bb392ef76aa74c39/core-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

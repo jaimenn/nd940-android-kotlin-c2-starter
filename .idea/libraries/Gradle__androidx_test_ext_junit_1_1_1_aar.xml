@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/0f183c11786c8e1bc911c32b2fb55532/transformed/jetified-junit-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/fd21b445316d5fefc2543d43fed3410b/transformed/jetified-junit-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/54347abc6c2a5da11f5667b631ace3fd/transformed/jetified-junit-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/9c37a36028e8d579e4c8bc869cd90913/transformed/jetified-junit-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/bd03914b685c28eab10abb7337bce231/transformed/jetified-junit-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/bad68c5261e06a8d0c1869fc502778dd/transformed/jetified-junit-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/bad68c5261e06a8d0c1869fc502778dd/transformed/jetified-junit-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/bad68c5261e06a8d0c1869fc502778dd/transformed/jetified-junit-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.1/36f7bb8e054e7a5d0d6e17b52bd6b2a06118a437/junit-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.1/40a36b3426cde38b7eb2375034e358152366dc9a/junit-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
