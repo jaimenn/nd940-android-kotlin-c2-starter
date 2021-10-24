@@ -9,10 +9,14 @@
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/ca8a5c5a84fede232265b0ae8a32f80c/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment-ktx/2.0.0/2a1f8dd68ebead585a2ae525d4778984bfc129cf/navigation-fragment-ktx-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment-ktx/2.0.0/2a1f8dd68ebead585a2ae525d4778984bfc129cf/navigation-fragment-ktx-2.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

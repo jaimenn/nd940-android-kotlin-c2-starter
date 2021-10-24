@@ -4,10 +4,14 @@
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/35dbcff7936abdaa14635d8595bf7d4a/transformed/work-runtime-2.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.work/work-runtime/2.0.0/83fa8342ade2d2101a87e4b76651d6e000164acf/work-runtime-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.work/work-runtime/2.0.0/83fa8342ade2d2101a87e4b76651d6e000164acf/work-runtime-2.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

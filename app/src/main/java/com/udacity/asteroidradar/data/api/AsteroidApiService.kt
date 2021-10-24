@@ -17,7 +17,9 @@ class AsteroidApiService {
     interface AsteroidService {
 
         @GET("neo/rest/v1/feed")
-        suspend fun getAsteroids(@Query("api_key") apKey: String): String
+        suspend fun getAsteroids(@Query("api_key") apKey: String,
+                                 @Query("start_date") startDate: String,
+                                 @Query("end_date") endDate: String): String
 
         @GET("planetary/apod")
         suspend fun getPictureOfTheDay(@Query("api_key") apKey: String): PictureOfDay

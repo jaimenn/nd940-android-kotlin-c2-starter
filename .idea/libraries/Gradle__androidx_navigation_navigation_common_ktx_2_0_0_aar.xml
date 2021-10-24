@@ -9,10 +9,14 @@
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml" />
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/transforms-3/9b5967741ab2722a80d2556292db2db0/transformed/navigation-common-ktx-2.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.navigation/navigation-common-ktx/2.0.0/fcc8303ee080c7f4de61f3f462974e972a41adc7/navigation-common-ktx-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Minha Carteira/app/caches/modules-2/files-2.1/androidx.navigation/navigation-common-ktx/2.0.0/fcc8303ee080c7f4de61f3f462974e972a41adc7/navigation-common-ktx-2.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
